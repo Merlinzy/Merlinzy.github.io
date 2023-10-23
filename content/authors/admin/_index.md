@@ -21,7 +21,7 @@ role: Software Engineer
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Microport scientific
+  - name: Chaoguang Micro Medical Technology Co., Ltd.
     #url: https://www.stanford.edu/
 
 # Short bio (displayed in user profile at end of posts)
@@ -117,5 +117,5 @@ skills:
 highlight_name: true
 ---
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Yingzhen Zhao is a software engineer at the Chaoguang Micro Medical Technology Co., Ltd. His interests include surgical robotics, edge computing, and deep learning.He is currently mainly responsible for the automation control and power management of surgical robot systems, and participates in medical image processing.
 {style="text-align: justify;"}
